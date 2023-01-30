@@ -97,7 +97,6 @@ def game_over():
 	# quit the program
 	quit()
 
-
 # Main Function
 while True:
 	
